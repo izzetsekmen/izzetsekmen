@@ -1,7 +1,7 @@
 - Hello my name is İzzet Sekmen  
 
 
-- I’m <a href="https://www.instagram.com/0izzet/?hl=tr"> @izzet_sekmen </a> in instagram !  ![instagram-gd574fb4b4_640](https://user-images.githubusercontent.com/96165390/148172435-939c52c4-d81d-4d68-91ce-c1f8a3822528.jpg)
+- I’m <a href="https://www.instagram.com/0izzet/?hl=tr"> @0izzet </a> in instagram !  ![instagram-gd574fb4b4_640](https://user-images.githubusercontent.com/96165390/148172435-939c52c4-d81d-4d68-91ce-c1f8a3822528.jpg)
 
 
  
